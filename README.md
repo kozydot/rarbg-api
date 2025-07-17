@@ -71,3 +71,7 @@ Then, you can access the API at `http://127.0.0.1:8000/docs`. You can filter by 
 ├── requirements.txt
 ├── main.py
 └── README.md
+---
+Made with ❤️ by Kozydot
+
+*Note: I might add rotating proxy support in the future.*
