@@ -56,22 +56,6 @@ Then, you can access the API at `http://127.0.0.1:8000/docs`. You can filter by 
 - `other`
 - `nonxxx`
 
-## Project Structure
-
-```
-.
-├── rargb/
-│   ├── __init__.py
-│   ├── client.py
-│   ├── leakybucket.py
-│   └── exceptions.py
-├── tests/
-│   ├── test_client.py
-├── .gitignore
-├── requirements.txt
-├── main.py
-└── README.md
----
 Made with ❤️ by Kozydot
 
 *Note: I might add rotating proxy support in the future.*
